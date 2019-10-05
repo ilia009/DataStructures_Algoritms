@@ -1,13 +1,15 @@
 Learning most common data strucrures and algorithms. 
 
 List of data stucture: 
-  1)Array
-  2)HashTable
-  3)ArrayList
-  4)LinkedList
+
+  1) Array
+  2) HashTable
+  3) ArrayList
+  4) LinkedList
   
   
 List of algorithms: 
+
   1) Factorial count
   2) Buble sort
   3) Counting sort
@@ -21,6 +23,7 @@ List of algorithms:
   
   
   The data structures which will commit soon: 
+  
       1) Stack
       2) Queu
       3) Map
